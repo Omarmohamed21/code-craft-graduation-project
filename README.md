@@ -1,6 +1,6 @@
 #Code Craft
 
-# Code Craft is more than an E-learning websites for students who is seeking to become an software engineers we're trying to build a full commuunity for people who are interest in this field
+# Code Craft is more than an E-learning websites for students who is seeking to become a software engineers we're trying to build a full commuunity for people who are interest in this field
 
 #Technology used: 
 1-Node.JS
@@ -43,10 +43,14 @@ https://drive.google.com/file/d/1fL6NXXuEXQhirrgFKrkffeBWpCK_RzAJ/view?usp=drive
 week 8 
 https://drive.google.com/file/d/1hDW8OSGzK5dDVjy0gBXgu9dgRVp8nuwn/view?usp=drive_link
 
-week 9 
+crashnote
+https://drive.google.com/drive/folders/1XRmq4WM8Q6nwIwFcYOF5yYJgtUqxQjO9?usp=drive_link
 
-week 10 
+JSA
+https://drive.google.com/drive/folders/1ema3F1T_AhdQyZgeh1RUWAFiUnlm_nXH?usp=drive_link
 
-week 11 
+P1
+https://drive.google.com/drive/folders/1VHcBsbg2MkrG7N4XgIXgOzprzKLSm9vF?usp=drive_link
 
-week 12
+W8S2
+https://drive.google.com/drive/folders/16rtQl38M_xebKkMd7MeaP5zAMr4FdvAU?usp=drive_link
