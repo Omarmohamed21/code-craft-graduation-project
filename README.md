@@ -54,3 +54,9 @@ https://drive.google.com/drive/folders/1VHcBsbg2MkrG7N4XgIXgOzprzKLSm9vF?usp=dri
 
 W8S2
 https://drive.google.com/drive/folders/16rtQl38M_xebKkMd7MeaP5zAMr4FdvAU?usp=drive_link
+polling 
+setInterval(() => {
+  fetch('/api/requests')
+}, 5000);
+
+حخ
